@@ -3,7 +3,7 @@
 Lazarus/Free Pascal-Portierung von [CloudLogCatQt](https://github.com/myzinsky/CloudLogCatQt)
 (Original von Matthias Jung, DL9MJ, BSD-3-Clause-Lizenz).
 
-![LogCat](LogCat.png)
+![LogCat](LogCat1.png)
 
 Funktional identisch zum Original:
 
