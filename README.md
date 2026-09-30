@@ -4,6 +4,7 @@ Lazarus/Free Pascal-Portierung von [CloudLogCatQt](https://github.com/myzinsky/C
 (Original von Matthias Jung, DL9MJ, BSD-3-Clause-Lizenz).
 
 ![LogCat](LogCat1.png)
+![Kontrol](Kontroll-Panel.png)
 
 Funktional identisch zum Original:
 
