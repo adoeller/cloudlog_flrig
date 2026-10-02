@@ -7,6 +7,7 @@ stored in settings.ini next to the executable when you press Save.
 
 ![LogCat](LogCat1.png)
 ![Kontrol](Kontroll-Panel.png)
+![Remote](remote.png)
 
 FEATURES
 --------
